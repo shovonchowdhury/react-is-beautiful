@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "name": "Basic Membership",
+        "price": 19.99,
+        "features": [
+            "Access to gym equipment",
+            "Locker room access",
+            "Free parking"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Standard Membership",
+        "price": 29.99,
+        "features": [
+            "Access to gym equipment",
+            "Locker room access",
+            "Free parking",
+            "Group fitness classes",
+            "Personal training consultation"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Premium Membership",
+        "price": 49.99,
+        "features": [
+            "Access to gym equipment",
+            "Locker room access",
+            "Free parking",
+            "Group fitness classes",
+            "Personal training consultation",
+            "Access to swimming pool",
+            "Sauna and steam room access"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "VIP Membership",
+        "price": 79.99,
+        "features": [
+            "Access to gym equipment",
+            "Locker room access",
+            "Free parking",
+            "Group fitness classes",
+            "Personal training consultation",
+            "Access to swimming pool",
+            "Sauna and steam room access",
+            "Guest passes",
+            "Priority class booking",
+            "Exclusive VIP lounge access"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Family Membership",
+        "price": 99.99,
+        "features": [
+            "Access to gym equipment for family members",
+            "Locker room access",
+            "Free parking",
+            "Group fitness classes",
+            "Personal training consultation",
+            "Access to swimming pool",
+            "Sauna and steam room access",
+            "Child care services",
+            "Family fitness classes"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Student Membership",
+        "price": 15.99,
+        "features": [
+            "Access to gym equipment",
+            "Locker room access",
+            "Free parking",
+            "Discounted group fitness classes"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Senior Membership",
+        "price": 25.99,
+        "features": [
+            "Access to gym equipment",
+            "Locker room access",
+            "Free parking",
+            "Group fitness classes",
+            "Personal training consultation",
+            "Access to swimming pool",
+            "Special senior fitness programs"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Corporate Membership",
+        "price": 59.99,
+        "features": [
+            "Access to gym equipment",
+            "Locker room access",
+            "Free parking",
+            "Group fitness classes",
+            "Personal training consultation",
+            "Access to swimming pool",
+            "Sauna and steam room access",
+            "Corporate wellness programs",
+            "Meeting room access"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Weekend Warrior Membership",
+        "price": 9.99,
+        "features": [
+            "Access to gym equipment on weekends",
+            "Locker room access",
+            "Free parking"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Off-Peak Membership",
+        "price": 14.99,
+        "features": [
+            "Access to gym equipment during off-peak hours",
+            "Locker room access",
+            "Free parking"
+        ]
+    }
+]
